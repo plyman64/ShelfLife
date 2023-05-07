@@ -13,4 +13,5 @@ To launch the game:
 Controls:
 
 WSAD = Move
+
 i = inventory/crafting
